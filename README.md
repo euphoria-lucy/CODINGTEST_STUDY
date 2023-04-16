@@ -1,4 +1,3 @@
-# CODINGTEST_STUDY
 <h1> <img src="https://www.flaticon.com/free-icon/candy_9892644?term=cute&page=1&position=96&origin=search&related_id=9892644" width = "35" height = "35" /> 2023 CODINGTEST CLASS <img src="https://www.flaticon.com/free-icon/candy_9892644?term=cute&page=1&position=96&origin=search&related_id=9892644" width = "35" height = "35"/> </h1>
 
 <h3> <img src = "https://cdn-icons-png.flaticon.com/512/6597/6597133.png" width = "25" height = "25" > PERIOD </h3>
