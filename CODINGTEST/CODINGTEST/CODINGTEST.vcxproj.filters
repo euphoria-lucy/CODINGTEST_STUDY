@@ -15,52 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Al1to100.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al04.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al06.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al08.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al09.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al12.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al13.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al14.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al14-1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Al15.c">
+    <ClCompile Include="Ex5-12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
