@@ -3,7 +3,7 @@
 #include <string.h> // strcpy 함수가 선언된 헤더 파일
 
 int main() {
-	char *s1 = "Hello!";
+	char *s1 = "Hello!"; // 문자열 포인터 
 	char *s2 = " ";
 	
 	strcpy(s2, s1); // 실행에러
